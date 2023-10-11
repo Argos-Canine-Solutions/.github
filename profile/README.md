@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://www.argoscaninesolutions.com">
-    <img src="https://github.com/Argos-Canine-Solutions/.github/assets/83240023/089aa2f5-d324-4c4b-9768-83eae8df6a58" height="300">
+    <img src="https://github.com/Argos-Canine-Solutions/.github/assets/83240023/2d85659e-ccb9-476a-ba3c-75623cb0604c" width="300">
   </a>
 </div>
 
